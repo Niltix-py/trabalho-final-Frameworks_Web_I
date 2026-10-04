@@ -6,9 +6,7 @@ Aplicação web interativa desenvolvida em React para a disciplina de Frameworks
 O projeto consiste em uma Pokédex interativa que consome a API pública [PokéAPI](https://pokeapi.co/). A aplicação permite navegar por páginas de Pokémons, buscar itens em tempo real e visualizar os detalhes específicos de cada um.
 
 ## 👥 Integrantes do Grupo
-- Nome Completo 1
-- Nome Completo 2
-- Nome Completo 3
+- Nilton Neves Da Silva Júnior
 
 ## 🛠️ Tecnologias Utilizadas
 - React + Vite
